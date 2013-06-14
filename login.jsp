@@ -32,7 +32,7 @@ return false;
 <center><h1><%=s%> LOGIN FORM</h1></center>
    <center>
   Username: <input type="text" name="uname"><br><br>
-  Password: <input type="password" name="pwd"><br><br>
+  Password: <input type="password" name="pwd"><br>
   <input type="submit" value="Sign in"> 
   <input type="button" name="reset_form" value="Reset" onclick="this.form.reset();">
     
